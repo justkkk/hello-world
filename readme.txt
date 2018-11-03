@@ -1,2 +1,2 @@
 hello world!
-今天是2018年11月3日
+today is 2018-11-3
