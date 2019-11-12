@@ -1,2 +1,2 @@
 hello world!
-这是一个美丽新世界
+it's just a test
